@@ -34,5 +34,4 @@ jobs:
     - name: Train model
       run: python offline.py
       
-    - name: Evaluate model
-      run: python server.py
+
