@@ -32,7 +32,7 @@ jobs:
       run: pip install -r requirements.txt
     
     - name: Train model
-      run: python train.py
+      run: python offline.py
       
     - name: Evaluate model
-      run: python evaluate.py
+      run: python server.py
