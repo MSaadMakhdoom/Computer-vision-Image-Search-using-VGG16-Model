@@ -39,6 +39,6 @@ python server.py
 
     @misc{sis,
 	    author = {Yusuke Matsui},
-	    title = {Simple Image Search Engine},
+	  
 	    
     }
