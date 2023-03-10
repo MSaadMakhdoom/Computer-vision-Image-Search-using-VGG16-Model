@@ -7,10 +7,7 @@
 - GPUs are not required.
 - Tested on Ubuntu 18.04 and WSL2 (Ubuntu 20.04)
 
-## Links
 
-
-- [Tutorial](https://ourcodeworld.com/articles/read/981/how-to-implement-an-image-search-engine-using-keras-tensorflow-with-python-3-in-ubuntu-18-04) and [Video](https://www.youtube.com/watch?v=Htu7b8PUyRg) by [@sdkcarlos](https://github.com/sdkcarlos)
 
 ## Usage
 ```bash
