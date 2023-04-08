@@ -34,11 +34,3 @@ python server.py
 - (Advanced) If you'd like to deploy the system in a secure way, please consider running the search engine with the usual web server, e.g., uWSGI + nginx.
 - (Advanced) If you want to deploy the system serverlessly, [AWS AppRunner](https://docs.aws.amazon.com/apprunner/latest/dg/what-is-apprunner.html) is the way to go.
 
-
-## Citation
-
-    @misc{sis,
-	    author = {Yusuke Matsui},
-	  
-	    
-    }
